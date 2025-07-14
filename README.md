@@ -2,6 +2,17 @@
 
 Welcome to the AXI Verification project! This open-source repository provides a comprehensive set of verification modules and test environments for AMBA AXI (Advanced eXtensible Interface) protocols.
 
+# AXI UVM Testbench
+![AXI Testbench](AXI_TB.png)
+
+# Testcases to be verified
+1. Write burst transfers(increment & wrapping) with differnent lengths
+2. Read burst transfers(increment & wrapping) with differnent lengths
+3. Multiple outstanding feature
+4. Narrow transfers with aligned & unaligned address
+5. Out of order transaction
+6. All possible response
+
 Contributing :- We welcome contributions from the open-source community! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
 
 License :- This project is open-source and free to use. We ensure that all contributions comply with open-source standards, and there are no copyright infringements.
