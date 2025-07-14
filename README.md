@@ -5,6 +5,9 @@ Welcome to the AXI Verification project! This open-source repository provides a 
 # AXI UVM Testbench
 ![AXI Testbench](AXI_TB.png)
 
+# AXI Block Diagram
+![AXI_Block](AXI_BB.png)
+
 # Testcases to be verified
 1. Write burst transfers(increment & wrapping) with differnent lengths
 2. Read burst transfers(increment & wrapping) with differnent lengths
