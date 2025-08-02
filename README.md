@@ -16,6 +16,8 @@ Welcome to the AXI Verification project! This open-source repository provides a 
 5. Out of order transaction
 6. All possible response
 
+Note: This implementation references @ShravyaSamala's AXI VIP work. The AXI RTL/Design functions as an interface with embedded assertions and properties that verify the handshaking mechanisms of signals across respective channels. The verification scope is limited to the AXI interface protocol only, with no other design elements being verified
+
 Contributing :- We welcome contributions from the open-source community! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
 
 License :- This project is open-source and free to use. We ensure that all contributions comply with open-source standards, and there are no copyright infringements.
